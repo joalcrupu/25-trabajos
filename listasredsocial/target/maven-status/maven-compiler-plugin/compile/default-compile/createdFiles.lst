@@ -1,0 +1,5 @@
+com\mycompany\listasredsocial\RedSocialApp.class
+controlador\ControladorEventos.class
+modelo\Evento.class
+modelo\NodoEvento.class
+vista\Vista.class

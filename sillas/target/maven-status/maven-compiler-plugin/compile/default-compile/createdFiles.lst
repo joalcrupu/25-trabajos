@@ -1,0 +1,6 @@
+com\mycompany\sillas\Sillas.class
+modelo\Modelo.class
+modelo\ListaCircular$Nodo.class
+modelo\ListaCircular.class
+controlador\Controlador.class
+vista\Vista.class

@@ -1,0 +1,4 @@
+com\mycompany\proyecto\modelo\EncryptionKey.class
+com\mycompany\proyecto\controlador\PasswordEncryptor.class
+com\mycompany\proyecto\Proyecto.class
+com\mycompany\proyecto\vista\PasswordEncryptorView.class
